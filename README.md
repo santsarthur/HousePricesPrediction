@@ -28,4 +28,4 @@ Id,SalePrice
 1463,175221
 ```
 
-### To see all the details, click [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
+### To see all the details, click [here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview).
