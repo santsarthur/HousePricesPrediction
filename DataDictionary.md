@@ -2,6 +2,8 @@
 
 Tabela com a descrição das variáveis do dataset utilizado no projeto de machine learning para previsão de preços de casas.
 
+> ℹ️ **Observação**: Este dicionário está em **português** com o objetivo de facilitar o entendimento e tradução das variáveis. Todo o restante do projeto está em **inglês**.
+
 ### 🔹 Variáveis Gerais
 
 | Variável              | Descrição                                                                 |
